@@ -1,0 +1,9 @@
+[submodule "ruby-playground"]
+	path = ruby-playground
+	url = git@github.com:yashprit/ruby-playground.git
+[submodule "hack-chef"]
+	path = hack-chef
+	url = git@github.com:yashprit/hack-chef.git
+[submodule "hack-coder"]
+	path = hack-coder
+	url = git@github.com:yashprit/hack-coder.git
